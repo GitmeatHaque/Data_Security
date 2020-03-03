@@ -1,0 +1,3 @@
+This part is about website blocking.
+In this,we are going to block the accessing of website for the given interval of time.
+After the given interval of time,user can access the website again.
